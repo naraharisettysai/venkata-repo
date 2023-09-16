@@ -1,0 +1,1 @@
+All the staging files can be stored in this folder.
