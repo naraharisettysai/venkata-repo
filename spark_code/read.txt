@@ -1,1 +1,0 @@
-This repo provides the pyspark code  which can be deployed to dataproc cluster.
